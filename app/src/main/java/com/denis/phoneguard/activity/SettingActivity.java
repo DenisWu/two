@@ -17,6 +17,8 @@ import android.view.View.OnClickListener;
 
 /**
  * 设置activity
+ *
+ *
  * @author yongda
  */
 public class SettingActivity extends Activity {
