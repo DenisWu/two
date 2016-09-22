@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_text_view.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable\\selector_text_view.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_choose_contact.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable\\selector_button_choose_contact.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_setup.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable\\selector_button_setup.xml"
+    }
+]

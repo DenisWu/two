@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/setupStyle"
+        android:gravity="center"
+        android:text="高级工具" />
+
+    <TextView
+        android:id="@+id/tv_checkAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/selector_text_view"
+        android:drawableLeft="@android:drawable/star_big_on"
+        android:gravity="center_vertical"
+        android:text="号码归属地查询"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_backupSMS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/selector_text_view"
+        android:drawableLeft="@android:drawable/star_big_on"
+        android:gravity="center_vertical"
+        android:text="短信备份"
+        android:textSize="16sp" />
+
+</LinearLayout>

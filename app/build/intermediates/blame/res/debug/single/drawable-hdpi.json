@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_safe.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\home_safe.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jiantou_pressed.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\jiantou_pressed.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_green_pressed.9.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\btn_green_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\listview_divider.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\listview_divider.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setup1.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\setup1.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\location_show_logo.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\location_show_logo.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_trojan.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\home_trojan.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setup2.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\setup2.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_full_open_on_phone.png",
+        "source": "E:\\AS_work\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_green.9.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\call_locate_green.9.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_blue.9.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\call_locate_blue.9.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\unlock.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\unlock.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_gray.9.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\call_locate_gray.9.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_delete.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_white.9.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\call_locate_white.9.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_taskmanager.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\home_taskmanager.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lock.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\lock.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_netmanager.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\home_netmanager.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_settings.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\home_settings.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\function_greenbutton_pressed.9.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\function_greenbutton_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_tools.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\home_tools.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\launcher_bg.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\launcher_bg.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "E:\\AS_work\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_orange.9.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\call_locate_orange.9.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\previous.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\previous.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_sysoptimize.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\home_sysoptimize.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setup3.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\setup3.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_apps.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\home_apps.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_green_normal.9.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\btn_green_normal.9.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\next.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_callmsgsafe.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\home_callmsgsafe.png"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\function_greenbutton_normal.9.png",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\drawable-hdpi\\function_greenbutton_normal.9.png"
+    }
+]

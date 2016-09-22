@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:denis="http://schemas.android.com/apk/res/com.denis.phoneguard"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/StateBarStyle"
+        android:text="设置中心" />
+
+    <com.denis.phoneguard.view.UpdateRelativeLayout
+        android:id="@+id/ur_auto_update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        denis:detail="自动更新已经开启"
+        denis:title="开启自动更新" />
+
+    <com.denis.phoneguard.view.UpdateRelativeLayout
+        android:id="@+id/rl_show_addr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        denis:detail="归属地设置已经开启"
+        denis:title="电话归属地设置" />
+
+    <com.denis.phoneguard.view.StyleRelativeLayout
+        android:id="@+id/rl_show_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        denis:detail="卫士蓝"
+        denis:title="归属地显示风格" />
+
+    <com.denis.phoneguard.view.StyleRelativeLayout
+        android:id="@+id/rl_show_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        denis:detail="点击更改"
+        denis:title="归属地显示位置设置" />
+
+</LinearLayout>

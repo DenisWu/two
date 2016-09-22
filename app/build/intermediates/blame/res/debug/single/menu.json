@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

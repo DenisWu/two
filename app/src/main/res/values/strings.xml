@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">手机卫士</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="item0">手机防盗</string>
+    <string name="item1">通讯卫士</string>
+    <string name="item2">软件管家</string>
+    <string name="item3">进程管理</string>
+    <string name="item4">流量管理</string>
+    <string name="item5">手机杀毒</string>
+    <string name="item6">缓存清理</string>
+    <string name="item7">高级工具</string>
+    <string name="item8">高级设置</string>
+
+
+</resources>

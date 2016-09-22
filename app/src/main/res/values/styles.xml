@@ -1,0 +1,78 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <!-- 标题栏的样式 -->
+    <style name="StateBarStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/light_green</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+    </style>
+    <!-- 设置中输入密码框的样式 -->
+    <style name="inputPwdStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:inputType">textPassword</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+    </style>
+    <!-- 手机防盗中设置引导页面的标题栏布局样式 -->
+    <style name="setupStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/light_green_title</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+    </style>
+    <!-- 手机防盗设置中 下一步按钮的样式 -->
+    <style name="button_next">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/selector_button_setup</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:text">下一步</item>
+        <item name="android:drawableRight">@drawable/next</item>
+    </style>
+
+    <!-- 手机防盗设置中 上一步按钮的样式 -->
+    <style name="button_previous">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/selector_button_setup</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:text">上一步</item>
+        <item name="android:drawableLeft">@drawable/previous</item>
+    </style>
+
+    <style name="text_content">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:padding">3dp</item>
+    </style>
+
+</resources>

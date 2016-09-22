@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/StateBarStyle"
+        android:text="设置密码界面" />
+
+    <EditText
+        android:id="@+id/et_pwd"
+        style="@style/inputPwdStyle"
+        android:hint="请输入密码" />
+
+    <EditText
+        android:id="@+id/et_pwd_conf"
+        style="@style/inputPwdStyle"
+        android:hint="请再次输入密码" />
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff" >
+
+        <Button
+            android:id="@+id/bn_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="取消"
+            android:textSize="16dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/bn_conf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="16dp"
+            android:text="确定" />
+    </LinearLayout>
+
+</LinearLayout>

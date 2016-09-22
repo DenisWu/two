@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\anim\\acitvity_next_enter.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\anim\\acitvity_next_enter.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\anim\\acitvity_previous_enter.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\anim\\acitvity_previous_enter.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\anim\\acitvity_next_out.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\anim\\acitvity_next_out.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\anim\\acitvity_previous_out.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\anim\\acitvity_previous_out.xml"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\activity_setup1.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\style_relativelayout.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\style_relativelayout.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_black_name.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\item_black_name.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_item_list.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\contact_item_list.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\update_relativelayout.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\update_relativelayout.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_blackname.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\dialog_add_blackname.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_show_contact.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\dialog_show_contact.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_show_addr.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\toast_show_addr.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_test_pwd.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\dialog_test_pwd.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_name.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\activity_black_name.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_setting_pwd.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\dialog_setting_pwd.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atools.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\activity_atools.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\activity_setup4.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\activity_setup3.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\activity_setup2.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lost_find.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\activity_lost_find.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_location.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\activity_show_location.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_item_list.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\home_item_list.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_address.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\activity_check_address.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\AS_work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\AS_work\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    }
+]
